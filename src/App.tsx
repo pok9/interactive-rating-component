@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import star from '../public/images/icon-star.svg';
 import './App.css';
 
 function App() {
